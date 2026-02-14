@@ -1,0 +1,266 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "java29",
+            "request": "launch",
+            "mainClass": "java29",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java28",
+            "request": "launch",
+            "mainClass": "java28",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java27",
+            "request": "launch",
+            "mainClass": "java27",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java26",
+            "request": "launch",
+            "mainClass": "java26",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java25",
+            "request": "launch",
+            "mainClass": "java25",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java24",
+            "request": "launch",
+            "mainClass": "java24",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java23",
+            "request": "launch",
+            "mainClass": "java23",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java22",
+            "request": "launch",
+            "mainClass": "java22",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java21",
+            "request": "launch",
+            "mainClass": "java21",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java21",
+            "request": "launch",
+            "mainClass": "java_program.java21",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java21",
+            "request": "launch",
+            "mainClass": "java_core.java21",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java20",
+            "request": "launch",
+            "mainClass": "java20",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java19",
+            "request": "launch",
+            "mainClass": "java19",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java18_1",
+            "request": "launch",
+            "mainClass": "java18_1",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java_18",
+            "request": "launch",
+            "mainClass": "java_18",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java18",
+            "request": "launch",
+            "mainClass": "java18",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java17",
+            "request": "launch",
+            "mainClass": "java17",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java16",
+            "request": "launch",
+            "mainClass": "java16",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java15",
+            "request": "launch",
+            "mainClass": "java15",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java14",
+            "request": "launch",
+            "mainClass": "java14",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java13",
+            "request": "launch",
+            "mainClass": "java13",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java12",
+            "request": "launch",
+            "mainClass": "java12",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java11",
+            "request": "launch",
+            "mainClass": "java11",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java10",
+            "request": "launch",
+            "mainClass": "java10",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java9",
+            "request": "launch",
+            "mainClass": "java9",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java8",
+            "request": "launch",
+            "mainClass": "java8",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java7",
+            "request": "launch",
+            "mainClass": "java7",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java6",
+            "request": "launch",
+            "mainClass": "java6",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java5",
+            "request": "launch",
+            "mainClass": "java5",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "java1",
+            "request": "launch",
+            "mainClass": "java1",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "frame1",
+            "request": "launch",
+            "mainClass": "frame1",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "frame",
+            "request": "launch",
+            "mainClass": "frame",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "quick",
+            "request": "launch",
+            "mainClass": "quick",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "mergesort",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "backtracking",
+            "request": "launch",
+            "mainClass": "backtracking",
+            "projectName": "sudoku_ff01356b"
+        }
+    ]
+}

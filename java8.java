@@ -1,0 +1,27 @@
+ import java.util.*;
+ import java.util.Scanner;
+public class java8 {   
+    public static void main(String[]args){
+        Scanner sc=new Scanner(System.in);
+            int a=sc.nextInt();
+            int b=sc.nextInt();
+            int c=sc.nextInt();
+            if(a>b&&a>c){
+                System.out.println("A is greater then B abd C");
+            }
+
+            
+            else if(b>a&&b>c){
+                System.out.println("B is greater then A and C");
+            }else{
+                System.out.println("c is greater");
+            }
+        }}
+
+
+            
+
+
+        
+    
+
