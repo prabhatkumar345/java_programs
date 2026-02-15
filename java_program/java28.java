@@ -1,36 +1,38 @@
 import java.util.*;
+import java.math.*;
 public class java28{
-    public static void amstrong(int a,int b){
-        System.out.print("Numbers :");
-        int clk=0;
-        int sum=0;
-       
-        
-        for(int i=a;i<=b;i++){
-           int temp=i;
-           int digit;
-            
-            while(temp!=0){
-            digit=temp%10;
-            sum=sum+(digit*digit*digit);
-            temp=temp/10;
-        }if(sum==i){
-            System.out.print(i+" ");
-            clk=1;
-            digit=0;
-            sum=0;
-           }else{
-            sum=0;
-           }
-        }if(clk==0){
-            System.out.println("There is no armstrong number");
-        }
+    public static boolean amstrong(int num){
+    int real_number=num;
+    int remainder,digit=0,result=0;
+     int temp=num;
+     //counting number of digits
+     while(temp!=0){
+        temp/=10;
+        digit++;
+     }
+     temp=num;
+     while(temp!=0){
+        remainder=temp%10;
+        result=result+(int)Math.pow(remainder, digit);
+        temp/=10;
+
+     }
+     return result==real_number;
+    
     }
+
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the lower and  limit:");
         int num1=sc.nextInt();
         int num2=sc.nextInt();
-        amstrong(num1,num2);
+       
+        System.out.println("Amstrong number between lower and upper bound:");
+        for(int i=num1;i<=num2;i++){
+            if(amstrong(i)){
+                System.out.print(i+" ");
+            }
+        }
 
     }
     
