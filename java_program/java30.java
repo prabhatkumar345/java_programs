@@ -16,13 +16,13 @@ public class java30 {
             System.out.println("Subtraction="+sub);
             break;
             case 3: int mul=a*b;
-            System.out.println("Subtraction="+mul);
+            System.out.println("Multiplication="+mul);
             break;
             case 4: int div=a/b;
-            System.out.println("Subtraction="+div);
+            System.out.println("Division="+div);
             break;
             case 5: int mod=a%b;
-            System.out.println("Subtraction="+mod);
+            System.out.println("Modulo="+mod);
             break;
             default :System.out.println("Enter the number between 1 and 5");
 
