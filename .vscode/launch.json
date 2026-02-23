@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "java33",
+            "request": "launch",
+            "mainClass": "java33",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "java32",
             "request": "launch",
             "mainClass": "java32",
