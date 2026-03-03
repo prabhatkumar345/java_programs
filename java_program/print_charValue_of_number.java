@@ -1,7 +1,7 @@
 
 //import java .util.*;
 //import java.string.util.*; 
-public class java4 {
+public class print_charValue_of_number {
     public static void main(String[] args) {
        // Scanner sc=new Scanner (System.in); 
     int a[]=new int[100];

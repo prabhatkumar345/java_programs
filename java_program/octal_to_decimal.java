@@ -1,6 +1,7 @@
 import java.util.*;
-public class java36{
+public class octal_to_decimal{
     public static void conversion(int num1,int num2){
+        //octal to decimal
         int temp1=num1;
         int temp2=num2;
         int power=0;

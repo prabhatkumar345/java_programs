@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java33{
+public class factorial_recursion{
     public static int factorial(int num){
         if(num==0){
             return 1;

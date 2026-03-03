@@ -1,5 +1,5 @@
 import java.util.*;
-public class java35{
+public class binary_decimal{
     public static void conversion(int num1,int num2){
        
         int temp1=num1;

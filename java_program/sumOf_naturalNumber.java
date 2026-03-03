@@ -1,5 +1,5 @@
 import java.util.*;
-public class java13 {
+public class sumOf_naturalNumber {
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter teh number of natural number:");

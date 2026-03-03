@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java30 {
+public class switch_function {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the value of change for :\n Sum-1 \n Sub-2 \n Mul-3 \n Div-4 \n Mod-5");

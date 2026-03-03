@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java25{
+public class amstrong_check{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();

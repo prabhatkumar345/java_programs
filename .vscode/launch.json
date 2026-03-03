@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calculate_avg_OfArray_Elements",
+            "request": "launch",
+            "mainClass": "calculate_avg_OfArray_Elements",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "calculate_power_recursion",
+            "request": "launch",
+            "mainClass": "calculate_power_recursion",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "reverse_string",
+            "request": "launch",
+            "mainClass": "reverse_string",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "java36",
             "request": "launch",
             "mainClass": "java36",

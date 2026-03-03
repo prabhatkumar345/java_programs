@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java16 {
+public class calculate_g {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number of digits in fibonacci:");

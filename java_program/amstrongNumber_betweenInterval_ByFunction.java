@@ -1,6 +1,6 @@
 import java.util.*;
 import java.math.*;
-public class java28{
+public class amstrongNumber_betweenInterval_ByFunction{
     public static boolean amstrong(int num){
     int real_number=num;
     int remainder,digit=0,result=0;

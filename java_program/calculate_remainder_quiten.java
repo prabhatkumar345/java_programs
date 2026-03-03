@@ -1,4 +1,4 @@
-public class java5 {
+public class calculate_remainder_quiten {
     public static void main(String[] args) {
         float a=145;
         float b=35;

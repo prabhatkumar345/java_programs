@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class java27 {
+public class primeNumber_betweenInterval_usingFuunction {
     public static void prime_number(int a,int b){
         int clk=0;
         System.out.print("Prime numbers are: ");

@@ -1,5 +1,5 @@
 import java.util.*;
-public class java34 {
+public class greatest_common_divisor {
     public static int Greatest_c_d(int num1,int num2,int rep,int ter){
          
         int gcd=1;

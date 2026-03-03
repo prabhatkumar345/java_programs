@@ -1,4 +1,4 @@
-public class java7 {
+public class check_vowel_consonent {
     public static void main(String[] args) {
         char a='i';
         

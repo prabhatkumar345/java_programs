@@ -1,5 +1,5 @@
 import java.util.*;
-public class java12 {
+public class check_alphabet {
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         char al=sc.nextLine().charAt(0);

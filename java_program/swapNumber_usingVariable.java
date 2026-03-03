@@ -1,4 +1,4 @@
-public class java6 {
+public class swapNumber_usingVariable {
 
     public static void main(String[] args) {
         int a=5;

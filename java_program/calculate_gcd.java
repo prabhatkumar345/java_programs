@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class java17 {
+public class calculate_gcd {
     public static void main(String[] args) {
         Scanner sca=new Scanner(System.in);
         int num1=sca.nextInt();

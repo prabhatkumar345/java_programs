@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class java32 {
+public class sumOfNaturalNumber_recursion {
     public static int SumOf_Natural_Number(int number){
         if(number==0){
             return 0;

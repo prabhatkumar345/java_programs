@@ -1,7 +1,7 @@
 // weather the entered number can be expressed as sum of two prime numbers.  
 import java.util.Scanner;
 
-public class java31{
+public class prime_number{
 
     // Method to check if a number is prime
     public static boolean isPrime(int num) {

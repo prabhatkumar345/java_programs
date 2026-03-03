@@ -1,6 +1,6 @@
 //package java_program;
 import java.util.Scanner;
-public class java21 {
+public class palindrome_check {
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();

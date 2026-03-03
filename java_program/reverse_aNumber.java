@@ -1,7 +1,7 @@
 
     //package java_program;
 import java.util.Scanner;
-public class java22 {
+public class reverse_aNumber {
 
     
 

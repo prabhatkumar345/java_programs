@@ -1,5 +1,5 @@
 import java.util.*;
-public class java11 {
+public class checkNumber_isPositive_Negative {
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter any number");

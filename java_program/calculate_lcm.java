@@ -1,5 +1,5 @@
 import java.util.*;
-public class java18{
+public class calculate_lcm{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         int num1=sc.nextInt();
