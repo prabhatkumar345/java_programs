@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "adding_TwoMatrix",
+            "request": "launch",
+            "mainClass": "adding_TwoMatrix",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "greatestElement_ofArray",
+            "request": "launch",
+            "mainClass": "greatestElement_ofArray",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "calculate_avg_OfArray_Elements",
             "request": "launch",
             "mainClass": "calculate_avg_OfArray_Elements",
