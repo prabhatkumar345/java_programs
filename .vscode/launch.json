@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "multiply_twoMatrix",
+            "request": "launch",
+            "mainClass": "multiply_twoMatrix",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "calculate_standardDeviation",
             "request": "launch",
             "mainClass": "calculate_standardDeviation",
