@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "count_Vowel_Consonent",
+            "request": "launch",
+            "mainClass": "count_Vowel_Consonent",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "frequency_OfCharacterIn_String",
+            "request": "launch",
+            "mainClass": "frequency_OfCharacterIn_String",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "multiply_twoMatrix",
             "request": "launch",
             "mainClass": "multiply_twoMatrix",
