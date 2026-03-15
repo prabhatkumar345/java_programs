@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sortelement_inDictionaryOrder",
+            "request": "launch",
+            "mainClass": "sortelement_inDictionaryOrder",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "count_Vowel_Consonent",
             "request": "launch",
             "mainClass": "count_Vowel_Consonent",
