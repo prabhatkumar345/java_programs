@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "add_toComplexUsingClass",
+            "request": "launch",
+            "mainClass": "add_toComplexUsingClass",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "sortelement_inDictionaryOrder",
             "request": "launch",
             "mainClass": "sortelement_inDictionaryOrder",
