@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintPatternPyramid",
+            "request": "launch",
+            "mainClass": "PrintPatternPyramid",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "add_toComplexUsingClass",
             "request": "launch",
             "mainClass": "add_toComplexUsingClass",
