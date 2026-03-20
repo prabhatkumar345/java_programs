@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveWhiteSpaceBetweenString",
+            "request": "launch",
+            "mainClass": "RemoveWhiteSpaceBetweenString",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "PrintPatternPyramid",
             "request": "launch",
             "mainClass": "PrintPatternPyramid",
