@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringToDateExample",
+            "request": "launch",
+            "mainClass": "StringToDateExample",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "StringToDateConversion",
+            "request": "launch",
+            "mainClass": "StringToDateConversion",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "RemoveWhiteSpaceBetweenString",
             "request": "launch",
             "mainClass": "RemoveWhiteSpaceBetweenString",
