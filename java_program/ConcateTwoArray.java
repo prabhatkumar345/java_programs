@@ -32,6 +32,7 @@ public class ConcateTwoArray {
             result[num1+i]=arr2[i];
         }
         //printing concate array
+        System.out.println("Array after concating two array: ");
         for(int i=0;i<num3;i++){
             System.out.print(result[i]+" ");
         }
