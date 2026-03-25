@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConcateTwoArray",
+            "request": "launch",
+            "mainClass": "ConcateTwoArray",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "StringToDateExample",
             "request": "launch",
             "mainClass": "StringToDateExample",
