@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintCurrentDate",
+            "request": "launch",
+            "mainClass": "PrintCurrentDate",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "CheckStringEmptyOrNot",
             "request": "launch",
             "mainClass": "CheckStringEmptyOrNot",
