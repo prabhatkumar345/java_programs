@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchValueInArray",
+            "request": "launch",
+            "mainClass": "SearchValueInArray",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "CharacterToStringViceVersa",
             "request": "launch",
             "mainClass": "CharacterToStringViceVersa",
