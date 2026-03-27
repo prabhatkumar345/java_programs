@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MillisecondToMiniuteAndSecond",
+            "request": "launch",
+            "mainClass": "MillisecondToMiniuteAndSecond",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "PrintCurrentDate",
             "request": "launch",
             "mainClass": "PrintCurrentDate",
