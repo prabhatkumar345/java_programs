@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JoinTwoList",
+            "request": "launch",
+            "mainClass": "JoinTwoList",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "MillisecondToMiniuteAndSecond",
             "request": "launch",
             "mainClass": "MillisecondToMiniuteAndSecond",

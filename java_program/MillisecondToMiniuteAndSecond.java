@@ -8,6 +8,7 @@ public class MillisecondToMiniuteAndSecond {
         double totalsecond=ms/1000;
         System.out.println("Miilisecond to minitus:"+totalsecond/60);
         System.out.println("Millisecond to seconds:"+totalsecond);
+        sc.close();
 
     }
     
