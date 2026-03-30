@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GetWorkingDirectory",
+            "request": "launch",
+            "mainClass": "GetWorkingDirectory",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "ConvertListToArrayAndViceVersa",
             "request": "launch",
             "mainClass": "ConvertListToArrayAndViceVersa",

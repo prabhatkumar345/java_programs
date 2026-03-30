@@ -31,6 +31,8 @@ public class ConvertListToArrayAndViceVersa {
         for(int i=0;i<num;i++){
             System.out.print(L2.get(i)+" ");
         }
-    }    }
+        sc.close();
+        }
+        }
     
 
