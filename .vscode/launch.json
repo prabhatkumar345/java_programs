@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayToHashsetAndViceVersa",
+            "request": "launch",
+            "mainClass": "ArrayToHashsetAndViceVersa",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "ConvertHaspmapIntoList",
             "request": "launch",
             "mainClass": "ConvertHaspmapIntoList",
