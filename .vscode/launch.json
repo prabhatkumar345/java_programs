@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppendInFile",
+            "request": "launch",
+            "mainClass": "AppendInFile",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
+            "name": "StringFromFileContent",
+            "request": "launch",
+            "mainClass": "StringFromFileContent",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "ArrayToHashsetAndViceVersa",
             "request": "launch",
             "mainClass": "ArrayToHashsetAndViceVersa",
