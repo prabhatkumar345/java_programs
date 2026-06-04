@@ -11,6 +11,7 @@ public class calculate_nth_power {
 
         }
         System.out.println("Ans="+ans);
+        sc.close();
     }
     
 }

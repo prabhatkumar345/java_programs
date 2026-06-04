@@ -3,8 +3,9 @@ import java.util.Scanner;
 public class calculate_standardDeviation{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the elements in array:");
+        System.out.println("Enter the no. of elements in array you want:");
         int num=sc.nextInt();
+        System.out.println("Enter elemnts in array:");
         int arr[]=new int[num];
         for(int i=0;i<num;i++){
             arr[i]=sc.nextInt();
@@ -19,7 +20,6 @@ public class calculate_standardDeviation{
             summation+=(Math.pow(arr[i]-(double)(sum/num),2));
 
         }System.out.println("Standard Deviation:"+Math.sqrt(summation/num));
+        sc.close();
 
-    }
-    
-}
+    }}

@@ -8,7 +8,7 @@ public class check_alphabet {
             System.out.println("Etered value is alphabet");
         }else{
             System.out.println("Entered value is not alphabet");
-        }
+        } sc.close();
 
         }
     } 

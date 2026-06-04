@@ -22,6 +22,7 @@ public class calculate_lcm{
             div++;}
         }
         System.out.println("LCM:"+lcm);
+        sc.close();
     }
     
 }

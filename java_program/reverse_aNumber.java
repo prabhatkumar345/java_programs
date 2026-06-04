@@ -17,6 +17,7 @@ public class reverse_aNumber {
             temp=temp/10;
         }
         System.out.println("NUmber="+num+"     Reverse="+reverse);
+        sc.close();
 
 
     }

@@ -27,6 +27,7 @@ public class switch_function {
             default :System.out.println("Enter the number between 1 and 5");
 
         }
+        sc.close();
 
 
 

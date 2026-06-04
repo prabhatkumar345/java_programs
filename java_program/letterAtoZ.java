@@ -6,7 +6,7 @@ public class letterAtoZ {
         System.out.println("Letters from A to Z:");
         for(char ch='A';ch<='Z';ch++){
             System.out.print(ch+" ");
-        }
+        } sc.close();
     }
     
 }

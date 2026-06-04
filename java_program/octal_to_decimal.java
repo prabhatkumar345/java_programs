@@ -39,6 +39,7 @@ public class octal_to_decimal{
         int octal=sc.nextInt();
         int decimal=sc.nextInt();
         conversion(octal,decimal);
+        sc.close();
     }
     
 }

@@ -59,7 +59,7 @@ public class multiply_twoMatrix {
                 System.out.print(result[i][j]+" ");
             }System.out.println();
         }
-    }
+    } sc.close();
 
 
 

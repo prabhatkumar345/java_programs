@@ -53,5 +53,6 @@ public class binaryTo_octal{
         int binary= sc.nextInt();
         int octal=sc.nextInt();
         conversion(binary,octal);
+        sc.close();
     }
 }

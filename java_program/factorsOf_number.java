@@ -13,6 +13,7 @@ public class factorsOf_number{
                 System.out.print(i+" ");
             }
         }
+        sc.close();
     }
     
 }

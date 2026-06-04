@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackTraceToString",
+            "request": "launch",
+            "mainClass": "StackTraceToString",
+            "projectName": "sudoku_ff01356b"
+        },
+        {
+            "type": "java",
             "name": "AppendInFile",
             "request": "launch",
             "mainClass": "AppendInFile",

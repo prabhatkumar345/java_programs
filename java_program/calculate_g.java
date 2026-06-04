@@ -14,7 +14,7 @@ public class calculate_g {
             a=b;
             b=c;
             System.out.print(c+" ");
-        }
+        } sc.close();
     }
     
 }

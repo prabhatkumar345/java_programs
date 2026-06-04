@@ -18,6 +18,7 @@ public class calculate_power_recursion{
         int base=sc.nextInt();
         int power=sc.nextInt();
         System.out.println("Power:"+calculate_power(base,power));
+        sc.close();
     }
     
 }

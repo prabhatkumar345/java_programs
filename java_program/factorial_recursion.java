@@ -19,6 +19,7 @@ public class factorial_recursion{
         System.out.println("Enter the number whose factorial you want:");
         int num=sc.nextInt();
         System.out.println("Factorial:"+factorial(num));
+        sc.close();
 
 
     }

@@ -36,5 +36,6 @@ public class binary_decimal{
         int dec=sc.nextInt();
 
         conversion(bin,dec);
+        sc.close();
     }
 }

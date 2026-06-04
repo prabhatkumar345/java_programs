@@ -21,7 +21,7 @@ public class amstrongNumber_betweenInterval {
                 digit=0;
                 sum=0;
             }
-        }
+        } sc.close();
     }
     
 }

@@ -1,5 +1,5 @@
 import java.util.*;
-import java.math.*;
+//import java.math.*;
 public class amstrongNumber_betweenInterval_ByFunction{
     public static boolean amstrong(int num){
     int real_number=num;
@@ -32,7 +32,7 @@ public class amstrongNumber_betweenInterval_ByFunction{
             if(amstrong(i)){
                 System.out.print(i+" ");
             }
-        }
+        } sc.close();
 
     }
     

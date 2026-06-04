@@ -40,6 +40,8 @@ public class adding_TwoMatrix {
             }
             System.out.println();
         }
+    sc.close();
+
     }
     
 }

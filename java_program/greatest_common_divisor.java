@@ -25,6 +25,7 @@ public class greatest_common_divisor {
             ter=num2;
         }
         System.out.println("Greatest common divisor:"+Greatest_c_d(num1,num2,1,ter));
+        sc.close();
     }
     
 }

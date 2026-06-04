@@ -9,6 +9,7 @@ public class calculate_factorial {
             fact=fact*i;
         }
         System.out.println(fact);
+        sc.close();
     }
     
 }

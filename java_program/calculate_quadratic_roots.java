@@ -1,5 +1,5 @@
 import java .util.Scanner;
-import java.math.*;
+//import java.math.*;
 public class calculate_quadratic_roots {
     public static void main(String []args){
         Scanner sc=new Scanner(System.in);
@@ -11,6 +11,7 @@ public class calculate_quadratic_roots {
 
         System.out.println("Root1="+(int)root1);
         System.out.println("Root2="+(int)root2);
+        sc.close();
     }
     
 }

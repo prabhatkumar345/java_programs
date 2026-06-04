@@ -1,4 +1,4 @@
- import java.util.*;
+ //import java.util.*;
  import java.util.Scanner;
 public class check_greatestNumber {   
     public static void main(String[]args){
@@ -15,7 +15,7 @@ public class check_greatestNumber {
                 System.out.println("B is greater then A and C");
             }else{
                 System.out.println("c is greater");
-            }
+            } sc.close();
         }}
 
 

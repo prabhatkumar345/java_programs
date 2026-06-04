@@ -9,7 +9,7 @@ public class print_table {
         while(count<11){
             System.out.println(num+"*"+count+"="+count*num);
             count++;
-        }
+        } sc.close();
     }
     
 }

@@ -22,5 +22,6 @@ public class frequency_OfCharacterIn_String{
                 System.out.println((char)arr[i]+":"+count);
             }
         }
+        sc.close();
     }
 }

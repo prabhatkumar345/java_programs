@@ -10,15 +10,16 @@ public class greatestElement_ofArray {
         }
 
         //finding biggest element from the array
-        int large=0;
+        //int large=0;
         for(int i=0;i<num;i++){
             if(arr[0]<arr[i]){
                 int temp=arr[i];
                 arr[i]=arr[0];
                 arr[0]=temp;
-                large=arr[0];
+               // large=arr[0];
             }
         }System.out.println("Greatest element in the array is:"+arr[0]);
+        sc.close();
 
     }
     

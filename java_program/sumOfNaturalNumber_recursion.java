@@ -18,6 +18,7 @@ public class sumOfNaturalNumber_recursion {
         int num=sc.nextInt();
         int sum=SumOf_Natural_Number(num);
         System.out.println("Sum="+sum);
+        sc.close();
         
     }
 }

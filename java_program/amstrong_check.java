@@ -15,6 +15,6 @@ public class amstrong_check{
             System.out.println("No. is amstrong");
         }else{
             System.out.println("not amstrong");
-        }
+        } sc.close();
     }
 }

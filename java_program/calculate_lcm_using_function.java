@@ -17,5 +17,6 @@ public class calculate_lcm_using_function {
 
         int lcm = (num1 * num2) / gcd(num1, num2);
         System.out.println("LCM: " + lcm);
+        sc.close();
     }
 }

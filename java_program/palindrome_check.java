@@ -17,6 +17,7 @@ public class palindrome_check {
         }else{
             System.out.println("No. is not palindrome");
         }
+        sc.close();
 
 
     }

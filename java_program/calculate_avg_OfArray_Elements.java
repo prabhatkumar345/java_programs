@@ -13,5 +13,6 @@ public class calculate_avg_OfArray_Elements{
             sum+=arr[i];
         }
         System.out.println("Average of array elements:"+(double)sum/num);
+        sc.close();
     }
 }

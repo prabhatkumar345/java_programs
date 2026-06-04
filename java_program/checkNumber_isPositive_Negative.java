@@ -8,5 +8,5 @@ public class checkNumber_isPositive_Negative {
             System.out.println("Entered number is positive ");
         }else{
             System.out.println("Entered number is negative");
-        }
+        } sc.close();
     }} 

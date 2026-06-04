@@ -15,6 +15,7 @@ public class count_digits {
             }
         }
         System.out.println("no. of digits in integer:"+count);
+        sc.close();
     }
     
 }

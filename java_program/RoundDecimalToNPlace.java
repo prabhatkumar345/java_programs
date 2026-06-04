@@ -11,5 +11,6 @@ public class RoundDecimalToNPlace {
         double result = Math.round(number * scale) / scale;
 
         System.out.println("Rounded value: " + result);
+        sc.close();
     }
 }

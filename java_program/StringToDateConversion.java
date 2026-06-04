@@ -13,7 +13,7 @@ public class StringToDateConversion {
     catch(Exception e){
         e.printStackTrace();
 
-    }
+    } sc.close();
     }
     
 }

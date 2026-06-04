@@ -15,6 +15,7 @@ public class calculate_gcd {
             
         }        
         System.out.println("Common greatest division:"+gcd);
+        sca.close();
     }
     
 }

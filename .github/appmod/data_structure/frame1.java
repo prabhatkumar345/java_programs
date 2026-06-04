@@ -19,8 +19,6 @@ public class frame1 {
             }
            }
         System.out.println(list);
-
-
-
-    }
+        sc.close();
+        }
 }

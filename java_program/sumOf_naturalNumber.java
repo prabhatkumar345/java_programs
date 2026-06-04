@@ -10,6 +10,7 @@ public class sumOf_naturalNumber {
 
         }
         System.out.print("Sum="+sum);
+        sc.close();
     }
     
 }

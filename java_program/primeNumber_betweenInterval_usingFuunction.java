@@ -48,6 +48,7 @@ public class primeNumber_betweenInterval_usingFuunction {
       int num1=sc.nextInt();
       int num2=sc.nextInt();
       prime_number(num1, num2);
+      sc.close();
         
     }
     

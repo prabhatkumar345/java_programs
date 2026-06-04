@@ -19,7 +19,7 @@ public class primeNumber_betweenInterval {
             }else{
                 count=0;
             }
-        }
+        } sc.close();
 
     }
     

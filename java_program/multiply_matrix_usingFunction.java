@@ -54,7 +54,7 @@ public class multiply_matrix_usingFunction {
 
         //calling dunction
         matrix_multiplication(arr1,arr2,row1,col1,row2,col2);
-    }
+    } sc.close();
     }
     
 }
